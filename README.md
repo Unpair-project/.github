@@ -22,13 +22,12 @@ Through this integrated approach, UNPAIR aims to contribute to biodiversity cons
   - Universidad Carlos III de Madrid, Spain.
   - Universidad Complutense de Madrid, Spain.
 - **Research network:** SESAM – Socioecological Systems in the Amazon (https://github.com/sesam-sinbiose).
+
 ## Main research topics
 
-- Parasite-host interaction networks
-- Ecological networks and meta-networks
-- Beta-diversity of species and interactions
-- Host immunological characteristics
-- Parasite virulence factors
+- Ecological interactions
+- Beta-diversity 
+- Host and parasite traits
 - Environmental and climatic drivers
 - Land-use and socioeconomic change
 - Predictive modelling
